@@ -1,4 +1,4 @@
-#Relation entre le PIB et la Satisfaction de Vie
+##Relation entre le PIB et la Satisfaction de Vie
 📌 Description
 Ce projet explore la corrélation entre le PIB par habitant et la satisfaction de vie à l'aide de données de l'OCDE et d'une régression linéaire simple.
 
